@@ -1,0 +1,15 @@
+input[type='search'] {
+    justify-content: center;
+    padding: 10px 30px;
+    width: 40%;
+    border: 1px solid black;
+    margin-left: 30%;
+  }
+
+button.ais-SearchBox-submit {
+      display: none;
+  }
+
+button.ais-SearchBox-reset{
+  display: none;
+}  
