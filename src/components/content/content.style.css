@@ -8,3 +8,11 @@ ul {
   li {
   margin: 1em 0;
   }  
+
+
+  @media screen and (max-width: 600px) {
+    ul {
+      width: 70%;
+      margin-left: 5%;
+    }
+}
